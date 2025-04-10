@@ -1,0 +1,14 @@
+.container {
+  color: #fff;
+}
+
+.container--sm {
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 42px;
+}
+.container--md {
+  font-weight: 300;
+  font-size: 65px;
+  line-height: 72px;
+}
